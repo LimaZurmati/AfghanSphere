@@ -1,7 +1,7 @@
 ---
-name: 'USER STORY: <title>'
-about: Describe this issue template's purpose here.
-title: ''
+name: Afghanspher_APP_new
+about: Custom template for user stories
+title: 'USER STORY: <title>'
 labels: ''
 assignees: ''
 
